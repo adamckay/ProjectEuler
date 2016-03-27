@@ -25,6 +25,8 @@ The four adjacent digits in the 1000-digit number that have the greatest product
 Find the thirteen adjacent digits in the 1000-digit number that have the greatest product.
 
 What is the value of this product?
+
+ANSWER: 23514624000
 """
 
 str_number = "731671765313306249192251196744265747423553491949349698352031277450632623957831801698480186947885184385" \
